@@ -1,0 +1,5 @@
+What happens when you initiate a repository? Why do you need to do it?
+A repository is a place where i can keep my file and maintain history as i change it during progression
+
+How is the staging area different from the working directory and repository? What value do you think it offers?
+Working directory is where uncommitted work in progress files are kept. Some maybe temporary in nature and do not need to be committed. Staging area allows separation of such file from the commit-intended files.
